@@ -1,0 +1,11 @@
+D:\My Projects\DesignPatternDemo\ObjectPoolPattern\bin\Debug\netcoreapp2.2\ObjectPoolPattern.deps.json
+D:\My Projects\DesignPatternDemo\ObjectPoolPattern\bin\Debug\netcoreapp2.2\ObjectPoolPattern.runtimeconfig.json
+D:\My Projects\DesignPatternDemo\ObjectPoolPattern\bin\Debug\netcoreapp2.2\ObjectPoolPattern.runtimeconfig.dev.json
+D:\My Projects\DesignPatternDemo\ObjectPoolPattern\bin\Debug\netcoreapp2.2\ObjectPoolPattern.dll
+D:\My Projects\DesignPatternDemo\ObjectPoolPattern\bin\Debug\netcoreapp2.2\ObjectPoolPattern.pdb
+D:\My Projects\DesignPatternDemo\ObjectPoolPattern\obj\Debug\netcoreapp2.2\ObjectPoolPattern.csprojAssemblyReference.cache
+D:\My Projects\DesignPatternDemo\ObjectPoolPattern\obj\Debug\netcoreapp2.2\ObjectPoolPattern.csproj.CoreCompileInputs.cache
+D:\My Projects\DesignPatternDemo\ObjectPoolPattern\obj\Debug\netcoreapp2.2\ObjectPoolPattern.AssemblyInfoInputs.cache
+D:\My Projects\DesignPatternDemo\ObjectPoolPattern\obj\Debug\netcoreapp2.2\ObjectPoolPattern.AssemblyInfo.cs
+D:\My Projects\DesignPatternDemo\ObjectPoolPattern\obj\Debug\netcoreapp2.2\ObjectPoolPattern.dll
+D:\My Projects\DesignPatternDemo\ObjectPoolPattern\obj\Debug\netcoreapp2.2\ObjectPoolPattern.pdb

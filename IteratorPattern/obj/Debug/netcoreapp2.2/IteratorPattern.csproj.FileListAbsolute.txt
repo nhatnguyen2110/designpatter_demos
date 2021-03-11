@@ -1,0 +1,11 @@
+D:\My Projects\DesignPatternDemo\IteratorPattern\bin\Debug\netcoreapp2.2\IteratorPattern.deps.json
+D:\My Projects\DesignPatternDemo\IteratorPattern\bin\Debug\netcoreapp2.2\IteratorPattern.runtimeconfig.json
+D:\My Projects\DesignPatternDemo\IteratorPattern\bin\Debug\netcoreapp2.2\IteratorPattern.runtimeconfig.dev.json
+D:\My Projects\DesignPatternDemo\IteratorPattern\bin\Debug\netcoreapp2.2\IteratorPattern.dll
+D:\My Projects\DesignPatternDemo\IteratorPattern\bin\Debug\netcoreapp2.2\IteratorPattern.pdb
+D:\My Projects\DesignPatternDemo\IteratorPattern\obj\Debug\netcoreapp2.2\IteratorPattern.csproj.CoreCompileInputs.cache
+D:\My Projects\DesignPatternDemo\IteratorPattern\obj\Debug\netcoreapp2.2\IteratorPattern.AssemblyInfoInputs.cache
+D:\My Projects\DesignPatternDemo\IteratorPattern\obj\Debug\netcoreapp2.2\IteratorPattern.AssemblyInfo.cs
+D:\My Projects\DesignPatternDemo\IteratorPattern\obj\Debug\netcoreapp2.2\IteratorPattern.dll
+D:\My Projects\DesignPatternDemo\IteratorPattern\obj\Debug\netcoreapp2.2\IteratorPattern.pdb
+D:\My Projects\DesignPatternDemo\IteratorPattern\obj\Debug\netcoreapp2.2\IteratorPattern.csprojAssemblyReference.cache

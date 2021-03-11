@@ -1,0 +1,10 @@
+D:\My Projects\DesignPatternDemo\ProxyPattern\bin\Debug\netcoreapp2.2\ProxyPattern.deps.json
+D:\My Projects\DesignPatternDemo\ProxyPattern\bin\Debug\netcoreapp2.2\ProxyPattern.runtimeconfig.json
+D:\My Projects\DesignPatternDemo\ProxyPattern\bin\Debug\netcoreapp2.2\ProxyPattern.runtimeconfig.dev.json
+D:\My Projects\DesignPatternDemo\ProxyPattern\bin\Debug\netcoreapp2.2\ProxyPattern.dll
+D:\My Projects\DesignPatternDemo\ProxyPattern\bin\Debug\netcoreapp2.2\ProxyPattern.pdb
+D:\My Projects\DesignPatternDemo\ProxyPattern\obj\Debug\netcoreapp2.2\ProxyPattern.csproj.CoreCompileInputs.cache
+D:\My Projects\DesignPatternDemo\ProxyPattern\obj\Debug\netcoreapp2.2\ProxyPattern.AssemblyInfoInputs.cache
+D:\My Projects\DesignPatternDemo\ProxyPattern\obj\Debug\netcoreapp2.2\ProxyPattern.AssemblyInfo.cs
+D:\My Projects\DesignPatternDemo\ProxyPattern\obj\Debug\netcoreapp2.2\ProxyPattern.dll
+D:\My Projects\DesignPatternDemo\ProxyPattern\obj\Debug\netcoreapp2.2\ProxyPattern.pdb

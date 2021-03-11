@@ -1,0 +1,11 @@
+D:\My Projects\DesignPatternDemo\FlyweightPattern\bin\Debug\netcoreapp2.2\FlyweightPattern.deps.json
+D:\My Projects\DesignPatternDemo\FlyweightPattern\bin\Debug\netcoreapp2.2\FlyweightPattern.runtimeconfig.json
+D:\My Projects\DesignPatternDemo\FlyweightPattern\bin\Debug\netcoreapp2.2\FlyweightPattern.runtimeconfig.dev.json
+D:\My Projects\DesignPatternDemo\FlyweightPattern\bin\Debug\netcoreapp2.2\FlyweightPattern.dll
+D:\My Projects\DesignPatternDemo\FlyweightPattern\bin\Debug\netcoreapp2.2\FlyweightPattern.pdb
+D:\My Projects\DesignPatternDemo\FlyweightPattern\obj\Debug\netcoreapp2.2\FlyweightPattern.csprojAssemblyReference.cache
+D:\My Projects\DesignPatternDemo\FlyweightPattern\obj\Debug\netcoreapp2.2\FlyweightPattern.csproj.CoreCompileInputs.cache
+D:\My Projects\DesignPatternDemo\FlyweightPattern\obj\Debug\netcoreapp2.2\FlyweightPattern.AssemblyInfoInputs.cache
+D:\My Projects\DesignPatternDemo\FlyweightPattern\obj\Debug\netcoreapp2.2\FlyweightPattern.AssemblyInfo.cs
+D:\My Projects\DesignPatternDemo\FlyweightPattern\obj\Debug\netcoreapp2.2\FlyweightPattern.dll
+D:\My Projects\DesignPatternDemo\FlyweightPattern\obj\Debug\netcoreapp2.2\FlyweightPattern.pdb

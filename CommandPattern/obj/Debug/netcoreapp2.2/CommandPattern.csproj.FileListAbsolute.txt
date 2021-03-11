@@ -1,0 +1,11 @@
+D:\My Projects\DesignPatternDemo\CommandPattern\bin\Debug\netcoreapp2.2\CommandPattern.deps.json
+D:\My Projects\DesignPatternDemo\CommandPattern\bin\Debug\netcoreapp2.2\CommandPattern.runtimeconfig.json
+D:\My Projects\DesignPatternDemo\CommandPattern\bin\Debug\netcoreapp2.2\CommandPattern.runtimeconfig.dev.json
+D:\My Projects\DesignPatternDemo\CommandPattern\bin\Debug\netcoreapp2.2\CommandPattern.dll
+D:\My Projects\DesignPatternDemo\CommandPattern\bin\Debug\netcoreapp2.2\CommandPattern.pdb
+D:\My Projects\DesignPatternDemo\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.csproj.CoreCompileInputs.cache
+D:\My Projects\DesignPatternDemo\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.AssemblyInfoInputs.cache
+D:\My Projects\DesignPatternDemo\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.AssemblyInfo.cs
+D:\My Projects\DesignPatternDemo\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.dll
+D:\My Projects\DesignPatternDemo\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.pdb
+D:\My Projects\DesignPatternDemo\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.csprojAssemblyReference.cache
